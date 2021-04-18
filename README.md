@@ -3,10 +3,10 @@
 Willkommen im GitHub der Eltern OHS Hanau!
 
 Hier ist das Getriebe zur offenen Plattform für den Wissensaustausch der Eltern der Otto-Hahn-Schule Hanau.
-Möchtest du mitmachen? 
-* In unserem [Wiki](https://github.com/eltern-ohs-hanau/eltern-ohs-hanau/wiki) kannst du Beiträge vorbereiten
-* In unserem [Ticketsystem](https://github.com/eltern-ohs-hanau/eltern-ohs-hanau/projects/1) kannst du helfen an Themen zu arbeiten
-* In unserem [Slack Chat](https://eltern-ohs-hanau.slack.com/) kannst du Kontakt aufnehmen
+Möchtest du mitmachen?
+* In unserem [Slack Chat](https://eltern-ohs-hanau.slack.com/) kannst du Kontakt aufnehmen.
+* In unserem [Wiki](https://github.com/eltern-ohs-hanau/eltern-ohs-hanau/wiki) kannst du Beiträge vorbereiten. Zugriff bitte über [Slack](https://eltern-ohs-hanau.slack.com/) anfragen!
+* In unserem [Ticketsystem](https://github.com/eltern-ohs-hanau/eltern-ohs-hanau/projects/1) kannst du helfen an Themen zu arbeiten. Zugriff bitte über [Slack](https://eltern-ohs-hanau.slack.com/) anfragen!
 
 Wir freuen uns über jede Hilfe, Anregung und auch Kritik.
 
